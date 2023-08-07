@@ -2,8 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 💫 About Me:
-<br><br>👋 Hello fellow .NET enthusiasts! I'm Ortiq, a passionate software developer with a deep love for all things .NET. My journey in the world of programming began with the fascination of turning lines of code into innovative solutions that empower businesses and users.<br><br>🚀 My Approach<br><br>I believe in writing clean, maintainable, and efficient code that not only solves immediate challenges but also sets a foundation for seamless scalability. I'm a strong advocate for best practices and design patterns that enhance code quality and collaboration.<br> 
+<br><br>👋 Hello fellow .NET enthusiasts! I'm Ortiq, a passionate software developer with a deep love for all things .NET. My journey in the world of programming began with the fascination of turning lines of code into innovative solutions that empower businesses and users.<br><br>🚀 My Approach<br><br>I believe in writing clean, maintainable, and efficient code that not only solves immediate challenges but also sets a foundation for seamless scalability. I'm a strong advocate for best practices and design patterns that enhance code quality and collaboration.
+<br> 
+
 🌱 Learning Journey<br>
+
 The tech world is ever-evolving, and I'm committed to staying up-to-date with the latest advancements in the .NET landscape. I'm constantly exploring new libraries, tools, and paradigms to refine my skills and deliver cutting-edge solutions.<br><br> 🤝 Let's Connect<br><br>Collaboration and knowledge-sharing are at the heart of what I do. If you're as passionate about .NET as I am, let's connect! Whether it's discussing innovative ideas, sharing experiences, or just having a code-related chat, feel free to reach out on GitHub or connect with me on LinkedIn --> (https://www.linkedin.com/in/ortiq-murodov-a1604126b/).<br><br>Happy coding! 🎉
 
 
