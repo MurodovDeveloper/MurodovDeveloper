@@ -6,7 +6,7 @@
 <br><br>
 🌱 Learning Journey
 <br><br> 
-The tech world is ever-evolving, and I'm committed to staying up-to-date with the latest advancements in the .NET landscape. I'm constantly exploring new libraries, tools, and paradigms to refine my skills and deliver cutting-edge solutions.<br><br> 🤝 Let's Connect<br><br>Collaboration and knowledge-sharing are at the heart of what I do. If you're as passionate about .NET as I am, let's connect! Whether it's discussing innovative ideas, sharing experiences, or just having a code-related chat, feel free to reach out on GitHub or connect with me on LinkedIn --> (https://www.linkedin.com/in/ortiq-murodov-a1604126b/).<br><br>Happy coding! 🎉 Go... Now().   
+The tech world is ever-evolving, and I'm committed to staying up-to-date with the latest advancements in the .NET landscape. I'm constantly exploring new libraries, tools, and paradigms to refine my skills and deliver cutting-edge solutions.<br><br> 🤝 Let's Connect<br><br>Collaboration and knowledge-sharing are at the heart of what I do. If you're as passionate about .NET as I am, let's connect! Whether it's discussing innovative ideas, sharing experiences, or just having a code-related chat, feel free to reach out on GitHub or connect with me on LinkedIn --> (https://www.linkedin.com/in/ortiq-murodov-a1604126b/).<br><br>Happy coding! 🎉 Go... Now().Just do it :
 
 
 ## 🌐 Socials:
@@ -23,7 +23,7 @@ The tech world is ever-evolving, and I'm committed to staying up-to-date with th
 ![](https://github-profile-trophy.vercel.app/?username=MurodovDeveloper&theme=onedark&no-frame=false&no-bg=false&margin-w=4)  
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)    
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MurodovDeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true)
